@@ -2,14 +2,14 @@
   "dependencies": {
     "json-server": "^0.17.0"
   },
-  "name": "api-storage-tiaw",
+  "name": "back-end-diw",
   "version": "1.0.0",
   "main": "server.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Fábio Cordeiro",
+  "author": "Iago Moysés",
   "license": "ISC",
   "description": ""
 }
